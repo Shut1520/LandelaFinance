@@ -4,7 +4,7 @@ FINTRACK/
 │   └── Cahier_des_charges_FinTrack.docx    --ok--
 │
 ├── 02_Specifications/
-│   ├── Exigences/
+│   ├── Exigences/   --ok--
 │   ├── Regles_metier/
 │   ├── Cas_utilisation/
 │   └── Criteres_acceptation/
